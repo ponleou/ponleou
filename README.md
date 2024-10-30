@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello!, I am Ponleou👋<br>I am a highly academic Computer Science freshmen student. I have a strong background in technology, programming, and especially web development. I love exploring new technologies and building projects. 
+Hello!, I am Ponleou👋<br>
+<br>
+I am a highly academic Computer Science freshmen student. I have a strong background in technology, programming, and especially web development. I love exploring new technologies and building projects. 
 
 
 ## 🌐 Socials:
