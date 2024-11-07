@@ -18,6 +18,7 @@ I am a highly academic Computer Science freshmen student. I have a strong backgr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ponleou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+# 📝 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/ponleou?theme=dark&font=Roboto&ext=activity)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
