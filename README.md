@@ -1,6 +1,6 @@
 # 👋 Hello! I am Ponleou
 
-I am a highly academic Computer Science freshmen student. I have a strong background in technology, programming, and especially web development. I love exploring new technologies and building projects. 
+A highly academic Computer Science freshmen student. I love exploring new technologies and building projects. Massive supporter for FOSS and especially the Penguin 🐧.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ponleou) 
 
