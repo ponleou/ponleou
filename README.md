@@ -5,7 +5,7 @@ A highly academic Computer Science freshmen student. I love exploring new techno
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ponleou) 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=react,vue,html,css,js,nodejs,c,cpp,cs,py,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,vue,html,css,js,nodejs,c,cpp,cs,py,mysql) ![My Skills](https://skillicons.dev/icons?i=react,vue,html)
 
 # 🖥️ Operating Systems:
 ![My OS](https://skillicons.dev/icons?i=linux,arch,nix,apple,windows)
