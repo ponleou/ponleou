@@ -3,6 +3,7 @@
 A highly academic Computer Science freshmen student. I love exploring new technologies and building projects. Massive supporter for FOSS and especially the Penguin 🐧.
 
 Portfolio [WIP]: https://ponleou.github.io/portfolio/
+
 My Linux rice dotfiles: https://github.com/ponleou/.dotfiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ponleou) 
