@@ -1,6 +1,6 @@
 # 👋 Hello! I am Ponleou
 
-A highly academic Computer Science freshmen student. I love exploring new technologies and building projects. Massive supporter for FOSS and especially the Penguin 🐧.
+A highly academic Computer Science freshmen student who loves exploring new technologies. Massive supporter for FOSS and especially the Penguin 🐧.
 
 Portfolio [WIP]: https://ponleou.github.io/portfolio/
 
