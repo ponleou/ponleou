@@ -1,4 +1,6 @@
-[18-Dec-2025] Migrated to [Codeberg](https://codeberg.org/ponleou). Major and active repositories will be mirrored to GitHub.
+**[18-12-2025]** Migrated to [Codeberg](https://codeberg.org/ponleou). Major and active repositories will be mirrored to GitHub.
+
+---
 
 # 👋 Hello! I am Ponleou
 
