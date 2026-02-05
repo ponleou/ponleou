@@ -20,7 +20,7 @@ My Linux rice dotfiles: https://codeberg.org/ponleou/dotfiles
 https://github.com/tandpfun/skill-icons
 -->
 
-![bash](https://skillicons.dev/icons?i=bash) ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![cs](https://skillicons.dev/icons?i=cs) ![typescript](https://skillicons.dev/icons?i=ts) ![javascript](https://skillicons.dev/icons?i=js) ![react](https://skillicons.dev/icons?i=react) ![vue](https://skillicons.dev/icons?i=vue) ![nodejs](https://skillicons.dev/icons?i=nodejs) ![bun](https://skillicons.dev/icons?i=bun) ![python](https://skillicons.dev/icons?i=py) [ruby](https://skillicons.dev/icons?i=ruby) [rails](https://skillicons.dev/icons?i=rails)
+![bash](https://skillicons.dev/icons?i=bash) ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![cs](https://skillicons.dev/icons?i=cs) ![typescript](https://skillicons.dev/icons?i=ts) ![javascript](https://skillicons.dev/icons?i=js) ![react](https://skillicons.dev/icons?i=react) ![vue](https://skillicons.dev/icons?i=vue) ![nodejs](https://skillicons.dev/icons?i=nodejs) ![bun](https://skillicons.dev/icons?i=bun) ![python](https://skillicons.dev/icons?i=py) ![ruby](https://skillicons.dev/icons?i=ruby) ![rails](https://skillicons.dev/icons?i=rails)
 
 ## 🖥️ Operating Systems:
 
