@@ -1,3 +1,7 @@
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+
+---
+
 # 👋 Hello! I am Ponleou
 
 A highly academic Computer Science student who loves exploring software engineering. Massive supporter for FOSS and especially the Penguin 🐧.
@@ -14,8 +18,9 @@ My Linux rice dotfiles: https://codeberg.org/ponleou/dotfiles
 https://github.com/tandpfun/skill-icons
 -->
 
-![react](https://skillicons.dev/icons?i=react) ![vue](https://skillicons.dev/icons?i=vue) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![typescript](https://skillicons.dev/icons?i=ts) ![javascript](https://skillicons.dev/icons?i=js) ![nodejs](https://skillicons.dev/icons?i=nodejs) ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![cs](https://skillicons.dev/icons?i=cs) ![python](https://skillicons.dev/icons?i=py) ![mysql](https://skillicons.dev/icons?i=mysql)
+![bash](https://skillicons.dev/icons?i=bash) ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![cs](https://skillicons.dev/icons?i=cs) ![typescript](https://skillicons.dev/icons?i=ts) ![javascript](https://skillicons.dev/icons?i=js) ![react](https://skillicons.dev/icons?i=react) ![vue](https://skillicons.dev/icons?i=vue) ![nodejs](https://skillicons.dev/icons?i=nodejs) ![bun](https://skillicons.dev/icons?i=bun) ![python](https://skillicons.dev/icons?i=py) [ruby](https://skillicons.dev/icons?i=ruby) [rails](https://skillicons.dev/icons?i=rails)
 
 ## 🖥️ Operating Systems:
+
 ![linux](https://skillicons.dev/icons?i=linux) ![arch](https://skillicons.dev/icons?i=arch)
 
