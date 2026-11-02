@@ -4,27 +4,20 @@
 
 ---
 
-# 👋 Hello! I am Ponleou
+![header](https://capsule-render.vercel.app/api?type=waving&color=f2cdcd&height=210&text=hello,%20im%20ponleou&desc=self-declared%20foss%20developer&fontColor=cdd6f4&fontSize=52&fontAlignY=27&descSize=20&descAlignY=47)
 
-A highly academic Computer Science student who loves exploring software engineering. Massive supporter for FOSS and especially the Penguin 🐧.
+<h3 align="center">『 about me 』</h3>
 
-Portfolio: https://ponleou.github.io/portfolio/
+- i like everything foss and linux 🐧
 
-My Linux rice dotfiles: https://codeberg.org/ponleou/dotfiles
+- currently learning nix and rust
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ponleou) 
+- unsure about my stance on ai, but i still prefer handcoding (for the joy of it)
 
-## 💻 Tech Stack: -->
+- check out my portfolio: [ponleou.cc](https://ponleou.cc)<br/>or my local forgejo host: [forge.ponleou.cc](https://forge.ponleou.cc)
 
-<!--
-https://github.com/tandpfun/skill-icons
--->
-<!-- 
-![bash](https://skillicons.dev/icons?i=bash) ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![cs](https://skillicons.dev/icons?i=cs) ![typescript](https://skillicons.dev/icons?i=ts) ![javascript](https://skillicons.dev/icons?i=js) ![react](https://skillicons.dev/icons?i=react) ![vue](https://skillicons.dev/icons?i=vue) ![nodejs](https://skillicons.dev/icons?i=nodejs) ![bun](https://skillicons.dev/icons?i=bun) ![python](https://skillicons.dev/icons?i=py) ![ruby](https://skillicons.dev/icons?i=ruby) ![rails](https://skillicons.dev/icons?i=rails)
+<h3 align="center">『 tech stack 』</h3>
 
-## 🖥️ Operating Systems:
-
-![linux](https://skillicons.dev/icons?i=linux) ![arch](https://skillicons.dev/icons?i=arch) -->
-
+![C++](https://img.shields.io/badge/C++-7287fd.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-179299.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Nix](https://img.shields.io/badge/Nix-8839ef.svg?&logo=NixOS&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-209fb5?logo=python&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-04a5e5?logo=typescript&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/React-4c4f69.svg?logo=react&logoColor=white&style=for-the-badge) ![Vue.js](https://img.shields.io/badge/Vue.js-40a02b?logo=vuedotjs&logoColor=white&style=for-the-badge) ![Express.js](https://img.shields.io/badge/Express.js-5c5f77.svg?logo=express&logoColor=white&style=for-the-badge) ![GTK](https://img.shields.io/badge/GTK-7287fd?logo=GTK&logoColor=white&style=for-the-badge) ![Rails](https://img.shields.io/badge/Rails-e64553.svg?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
 
 
