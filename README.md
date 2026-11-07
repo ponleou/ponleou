@@ -2,7 +2,7 @@
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f2cdcd&height=210&text=hello,%20im%20ponleou&desc=self-declared%20foss%20developer&fontColor=cdd6f4&fontSize=52&fontAlignY=27&descSize=20&descAlignY=47)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f2cdcd&height=200&text=hello,%20im%20ponleou&desc=self-declared%20foss%20developer&fontColor=cdd6f4&fontSize=52&fontAlignY=33&descSize=20&descAlignY=55)
 
 <h3 align="center">『 about me 』</h3>
 
